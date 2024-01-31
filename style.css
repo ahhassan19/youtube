@@ -1,0 +1,21 @@
+body{
+    justify-content: center;
+}
+.head{
+     text-align: center;
+     background-color: black;
+     color: white;
+
+}
+.para{
+    text-align: center;
+}
+.exp ,.sk{
+    background-color: rgb(224, 221, 221);
+    font-weight: bold;
+}
+.job{
+    background-color: white;
+    color: skyblue
+    
+}
